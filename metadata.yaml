@@ -1,0 +1,53 @@
+_repo: Songs-and-lyrics-of-Robert-Burns_75462
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Flint, Robert Purves
+    alias: Flint, R. Purves (Robert Purves)
+    birthdate: 1883
+    deathdate: 1947
+    gutenberg_agent_id: '58011'
+    url: http://www.gutenberg.org/2009/agents/58011
+  - agent_name: Flint, W. Russell (William Russell)
+    alias: Flint, William Russell, Sir
+    birthdate: 1880
+    deathdate: 1969
+    gutenberg_agent_id: '43472'
+    url: http://www.gutenberg.org/2009/agents/43472
+    wikipedia: https://en.wikipedia.org/wiki/William_Russell_Flint
+creator:
+  author:
+    agent_name: Burns, Robert
+    birthdate: 1759
+    deathdate: 1796
+    gutenberg_agent_id: '583'
+    url: http://www.gutenberg.org/2009/agents/583
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Burns
+  editor:
+    agent_name: Macdonald, William
+    deathdate: 1916
+    gutenberg_agent_id: '40762'
+    url: http://www.gutenberg.org/2009/agents/40762
+description: ''
+gutenberg_issued: '2025-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75462'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/hvd.hwjpx5
+pgterms:marc905: 20220225020522burns
+pgterms:marc906: '1911'
+pgterms:marc907: GB
+production_note: Tim Lindell, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bPhilip Lee Warner, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scottish poetry -- 18th century'
+- !lcc 'PR'
+- GITenberg
+title: Songs and lyrics of Robert Burns
+url: http://www.gutenberg.org/ebooks/75462
